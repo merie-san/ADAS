@@ -1,2 +1,2 @@
 # ADAS
-university project for Operating System
+university project for Operating Systems
